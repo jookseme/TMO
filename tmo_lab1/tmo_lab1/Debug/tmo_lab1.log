@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Admin\source\repos\tmo_lab1\tmo_lab1\Source.cpp(20,56): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\tmo_lab1\tmo_lab1\Source.cpp(46,16): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  tmo_lab1.vcxproj -> C:\Users\Admin\source\repos\tmo_lab1\Debug\tmo_lab1.exe
